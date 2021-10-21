@@ -1,6 +1,6 @@
 {
-  "name": "phoenix-solar",
-  "short_name": "phoenix-solar",
+  "name": "Hugo Book",
+  "short_name": "Hugo Book",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
