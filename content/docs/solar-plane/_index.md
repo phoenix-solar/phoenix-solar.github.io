@@ -4,4 +4,4 @@ bookFlatSection: true
 title: "Solar Plane"
 ---
 
-# Index Page
+# Solar Palne
