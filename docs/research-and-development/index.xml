@@ -5,5 +5,14 @@
     <link>https://phoenix-solar.github.io/docs/research-and-development/</link>
     <description>Recent content in Research &amp; Development on Phoenix-Solar</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://phoenix-solar.github.io/docs/research-and-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started with Ardupilot</title>
+      <link>https://phoenix-solar.github.io/docs/research-and-development/Ardupilot/getting-started-with-ardupilot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix-solar.github.io/docs/research-and-development/Ardupilot/getting-started-with-ardupilot/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
