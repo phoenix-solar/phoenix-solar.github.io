@@ -1,6 +1,6 @@
 {
-  "name": "Phoenix-Solar",
-  "short_name": "Phoenix-Solar",
+  "name": "Phoenix-Solar Docs",
+  "short_name": "Phoenix-Solar Docs",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
