@@ -1,6 +1,6 @@
 ---
-title: Introduction
+title: Documentation
 type: docs
 ---
 
-# Home Page
+# Documentation Home
