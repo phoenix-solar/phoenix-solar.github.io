@@ -1,7 +1,7 @@
 ---
-weight: 1
+weight: 1s
 bookFlatSection: true
-title: "Solar Plane"
+title: "Wednesday evening projects"
 bookCollapseSection : true
 ---
 
