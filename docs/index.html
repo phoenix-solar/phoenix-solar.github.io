@@ -14,9 +14,6 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.46181bc93375ba932026e753b37c40e6ff8bb16a9ef770c78bcc663e4577b1ba.css" integrity="sha256-RhgbyTN1upMgJudTs3xA5v&#43;LsWqe93DHi8xmPkV3sbo=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.5acdad1e0dc814f14868b6b8d5b7ada828dc19a9a4466c0411817612b086c938.js" integrity="sha256-Ws2tHg3IFPFIaLa41betqCjcGamkRmwEEYF2ErCGyTg=" crossorigin="anonymous"></script>
-
   <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
 <link rel="alternate" type="application/rss+xml" href="https://docs.phoenix-solar.ch/docs/index.xml" title="Phoenix-Solar Docs" />
 <!--
@@ -39,12 +36,6 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
-</div>
-
 
 
 
@@ -64,64 +55,27 @@ https://github.com/alex-shpak/hugo-book
   <ul>
     
       
-        <li class="book-section-flat" >
+        <li>
           
   
   
 
   
-    <input type="checkbox" id="section-19fbad5a46e31b3b4b677baaee5c8644" class="toggle"  />
-    <label for="section-19fbad5a46e31b3b4b677baaee5c8644" class="flex justify-between">
-      <a href="https://docs.phoenix-solar.ch/docs/solar-plane/" class="">Solar Plane</a>
-    </label>
+    <a href="https://docs.phoenix-solar.ch/docs/construction/" class="">Cobstruction</a>
   
-
-          
-  <ul>
-    
-      
-        <li class="book-section-flat" >
-          
-  
-  
-
-  
-    <input type="checkbox" id="section-a58ff3f35c642a66db64cc6408c7f8c0" class="toggle"  />
-    <label for="section-a58ff3f35c642a66db64cc6408c7f8c0" class="flex justify-between">
-      <a href="https://docs.phoenix-solar.ch/docs/solar-plane/Autopilot/" class="">Autopilot</a>
-    </label>
-  
-
-          
-  <ul>
-    
-  </ul>
-
-        </li>
-      
-    
-  </ul>
 
         </li>
       
     
       
-        <li class="book-section-flat" >
+        <li>
           
   
   
 
   
-    <input type="checkbox" id="section-e74c001929e2cc82935de3bacaa24f42" class="toggle"  />
-    <label for="section-e74c001929e2cc82935de3bacaa24f42" class="flex justify-between">
-      <a href="https://docs.phoenix-solar.ch/docs/wednsday-evening-projects/" class="">Wednesday evening projects</a>
-    </label>
+    <a href="https://docs.phoenix-solar.ch/docs/design/" class="">design</a>
   
-
-          
-  <ul>
-    
-  </ul>
 
         </li>
       
@@ -142,14 +96,8 @@ https://github.com/alex-shpak/hugo-book
 <ul>
   
   <li>
-    <a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener">
-        Hugo GitHub
-      </a>
-  </li>
-  
-  <li>
-    <a href="https://themes.gohugo.io/hugo-book/" target="_blank" rel="noopener">
-        Hugo Themes
+    <a href="/posts" target="_blank" rel="noopener">
+        Blog
       </a>
   </li>
   
@@ -165,7 +113,7 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  <script>(function(){var a=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(b){localStorage.setItem("menu.scrollTop",a.scrollTop)}),a.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
 
 
  
@@ -184,21 +132,10 @@ https://github.com/alex-shpak/hugo-book
 
   <label for="toc-control">
     
-    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
-    
   </label>
 </div>
 
 
-  
-  <aside class="hidden clearfix">
-    
-  
-
-
-
-
-  </aside>
   
  
       </header>
@@ -221,7 +158,7 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  <script>(function(){function a(c){const a=window.getSelection(),b=document.createRange();b.selectNodeContents(c),a.removeAllRanges(),a.addRange(b)}document.querySelectorAll("pre code").forEach(b=>{b.addEventListener("click",function(c){a(b.parentElement),navigator.clipboard&&navigator.clipboard.writeText(b.parentElement.textContent)})})})()</script>
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
 
 
  
@@ -235,17 +172,6 @@ https://github.com/alex-shpak/hugo-book
       <label for="menu-control" class="hidden book-menu-overlay"></label>
     </div>
 
-    
-    <aside class="book-toc">
-      <div class="book-toc-content">
-        
-  
-
-
-
- 
-      </div>
-    </aside>
     
   </main>
 

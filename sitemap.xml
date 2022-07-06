@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://docs.phoenix-solar.ch/docs/solar-plane/</loc>
-    <lastmod>2021-10-26T13:34:23+02:00</lastmod>
-  </url><url>
-    <loc>https://docs.phoenix-solar.ch/docs/solar-plane/Autopilot/</loc>
-    <lastmod>2021-10-26T13:34:23+02:00</lastmod>
-  </url><url>
     <loc>https://docs.phoenix-solar.ch/categories/</loc>
   </url><url>
+    <loc>https://docs.phoenix-solar.ch/docs/construction/</loc>
+    <lastmod>2022-07-06T22:01:26+02:00</lastmod>
+  </url><url>
+    <loc>https://docs.phoenix-solar.ch/docs/design/</loc>
+    <lastmod>2022-07-06T22:01:26+02:00</lastmod>
+  </url><url>
     <loc>https://docs.phoenix-solar.ch/docs/</loc>
-    <lastmod>2021-10-26T13:34:23+02:00</lastmod>
+    <lastmod>2022-07-06T22:01:26+02:00</lastmod>
   </url><url>
     <loc>https://docs.phoenix-solar.ch/</loc>
-    <lastmod>2022-01-03T15:05:51+01:00</lastmod>
+    <lastmod>2022-07-06T22:01:26+02:00</lastmod>
+  </url><url>
+    <loc>https://docs.phoenix-solar.ch/posts/test-post/</loc>
+    <lastmod>2022-07-06T22:01:26+02:00</lastmod>
+  </url><url>
+    <loc>https://docs.phoenix-solar.ch/posts/</loc>
+    <lastmod>2022-07-06T22:01:26+02:00</lastmod>
   </url><url>
     <loc>https://docs.phoenix-solar.ch/tags/</loc>
-  </url><url>
-    <loc>https://docs.phoenix-solar.ch/docs/wednsday-evening-projects/</loc>
-    <lastmod>2021-10-26T13:34:23+02:00</lastmod>
   </url>
 </urlset>
