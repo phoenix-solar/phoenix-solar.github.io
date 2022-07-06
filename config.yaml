@@ -2,7 +2,7 @@
 
 baseURL: https://docs.phoenix-solar.ch/
 title: Phoenix-Solar Docs
-theme: hugo-book
+theme: book
 
 # Book configuration
 disablePathToLower: true
@@ -20,12 +20,9 @@ markup:
 menu:
   # before: []
   after:
-    - name: "Hugo GitHub"
-      url: "https://github.com/gohugoio/hugo"
+    - name: "Blog"
+      url: "/posts"
       weight: 10
-    - name: "Hugo Themes"
-      url: "https://themes.gohugo.io/hugo-book/"
-      weight: 20
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -35,7 +32,7 @@ params:
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
-  BookToC: true
+  BookToC: false
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
@@ -69,7 +66,7 @@ params:
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
-  BookSearch: true
+  BookSearch: false
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template

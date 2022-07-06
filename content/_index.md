@@ -14,3 +14,7 @@ On this webpage we want to document our projects primarily for us and for everyo
 
 ## Why?
 We like sharing our experiences.
+
+## Thanks to this open source software
+- [hugo-books](https://themes.gohugo.io/hugo-book/)
+- [hugo Github](https://github.com/gohugoio/hugo)
